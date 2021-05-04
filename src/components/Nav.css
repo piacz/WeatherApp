@@ -1,0 +1,8 @@
+#logoHenry {
+  margin-right: 20px;
+  border-radius: 3px;
+}
+
+.navbar-brand:hover{
+  font-size: 1.3em;
+}
